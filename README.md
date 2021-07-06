@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mostafijur Rahman</h1>
-- 🔭 I’m currently working on As a **Software Eng at Devswire**
+- 🔭 I’m currently working on As a **Software Engr at Devswire**
 
 - 🌱 I’m currently learning **JavaScript,NodeJs,React**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Mostafijur Rahman</h1>
+<h1 align="center">Mohammad Mostafijur Rahman</h1>
 - 🔭 I’m currently working on As a **Software Engr at Devswire**
 
 - 🌱 I’m currently learning **JavaScript,NodeJs,React**

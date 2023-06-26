@@ -1,11 +1,11 @@
 <h1 align="center">Mohammad Mostafijur Rahman</h1>
-- 🔭 I’m currently working on As a **Software Engr at Devswire**
+- 🔭 I’m currently working on As a **Software Engr at Computer Network System Limited**
 
 - 🌱 I’m currently learning **JavaScript,NodeJs,React**
 
-- 💬 Ask me about **Machine Learning,Deep Learning,App and web Development**
+- 💬 Ask me about **Machine Learning,Deep Learning, App and web Development**
 
-- 📫 How to reach me **mostafijurrahmanbipul10@gmail.com**
+- 📫 How to reach me **mostafij.rahman10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
